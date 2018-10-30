@@ -1,5 +1,5 @@
 # PySpecty
-A happy light weight library to search python errors on stackoverflow automatically.
+Most of time developers spend on stackoverflow searching for their errors, this library automatically search for solution on stackoverflow as soon as you get an error and save a lot of time from  a loop of reading error, searching it on stackoverflow.
 
 ## Installation
 
