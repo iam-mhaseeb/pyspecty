@@ -10,7 +10,7 @@ Installation is simplest with pip:
 
 #### Installation notes
 
-pyspecty does not depends on external libraries.
+pyspecty depends on `singleton-decorator` only.
 
 pyspecty automatically search python errors on stackoverflow. See [Usage](#usage) below.
 
@@ -23,7 +23,21 @@ from pyspecty import PySpecty
 PySpecty() # that's it!
 ```
 
-A smaple output is:
+From [example](Example/main.py):
+```python
+from pyspecty import PySpecty
+
+PySpecty() # That's it!! Do it somewhere in your file
+
+# The actual code!!
+
+print(2/0)
+
+# Code end here
+
+```
+
+output is:
 
 ![division_by_zero_error](Example/error.png)
 
