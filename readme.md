@@ -18,7 +18,19 @@ pyspecty automatically search python errors on stackoverflow. See [Usage](#usage
 
 Check out [A simple usage example](Example/main.py) for a short intro. A sample usage is:
 
-`Python Code Goes Here`
+```python
+from pyspecty import PySpecty
+PySpecty() # that's it!
+```
+
+A smaple output is:
+
+![division_by_zero_error](Example/error.png)
+
+## TODO
+
+1. Tests need to be written.
+2. A dumb page also open that need to be fixed.
 
 ## Contributing
 

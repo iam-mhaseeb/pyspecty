@@ -15,7 +15,11 @@ setup(name='pyspecty',
       author_email='haseeb.emailbox@gmail.com',
       license='MIT',
       packages=['pyspecty'],
+      install_requires=[
+                'singleton-decorator'
+            ],
       zip_safe=False,
+      include_package_data=True,
       test_suite='nose.collector',
       tests_require=['nose'],
       )
