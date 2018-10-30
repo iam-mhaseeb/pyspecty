@@ -1,11 +1,11 @@
 import  io
 from setuptools import setup
 
-with io.open('README.md', encoding='utf_8') as fp:
+with io.open('readme.md', encoding='utf_8') as fp:
     readme = fp.read()
 
-setup(name='pywordcloudy',
-      version='1.1',
+setup(name='pyspecty',
+      version='1.0',
       description='A happy light weight library to search python errors on stackoverflow automatically.',
       long_description=readme,
       long_description_content_type='text/markdown',
