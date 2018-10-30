@@ -29,5 +29,4 @@ Feel free to submit pull requests to me.
 * **Muhammad Haseeb** - *Initial work* - [Muhammad Haseeb](https://github.com/iam-mhaseeb)
 
 ## Licensing
-The pycloudy library is [MIT Licenced](LICENSE), but contains Open Sans font. Open Sans is a sans-serif typeface designed by Steve Matteson and commissioned by Google, that is apache licensed.
-The font is by no means integral, and any other font can be used by placing font.ttf file in pywordcloud folder when creating a word cloud.
+The pycloudy library is [MIT Licenced](LICENSE). Feel free to use commercially of personally.
