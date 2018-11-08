@@ -1,5 +1,5 @@
 # PySpecty
-Most of time developers spend on stackoverflow searching for their python errors, this library automatically search for solution on stackoverflow as soon as you get an python error and save a lot of time from  a loop of reading error, searching it on stackoverflow.
+Most of developers spend maximum time on stackoverflow searching for their python errors, this library automatically search for solution on stackoverflow as soon as you get an python error and save a lot of time from  a loop of reading error, searching it on stackoverflow.
 
 ## Installation
 
